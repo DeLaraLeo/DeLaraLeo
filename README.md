@@ -1,8 +1,8 @@
 ### <div align="center">Hi, I'm Leonardo 👋
 
-### Back-end Developer 
+### Full Stack Developer (Backend Heavy)
 
-I am a Back-end Developer with **3 years of experience** specializing in building robust architectures and high-performance systems (SaaS Products). My expertise lies in PHP ecosystems and microservices, with a proven track record of optimizing product performance and driving business growth through strategic software solutions.
+I am a Full Stack Developer (Backend Heavy) with over **3 years of experience** specializing in building robust architectures and high-performance systems (SaaS Products). My expertise lies in PHP ecosystems and microservices, with a proven track record of optimizing product performance and driving business growth through strategic software solutions.
 
 - 🛠️ **PHP Specialist**: Expert in Laravel, Hyperf, and Microservices architecture.
 - 🚀 **Performance & Growth**: Specialized in performance optimization and developing solutions that directly impact sales and lead conversion.
